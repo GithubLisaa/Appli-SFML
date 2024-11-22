@@ -9,5 +9,6 @@ pour afficher une fenêtre graphique interactive. Le projet sert de
 point de départ pour explorer les capacités de SFML en matière
 de gestion des fenêtres, des événements et du rendu
 graphique.  
+
   
 Si pas d'idées, faire un paint.
